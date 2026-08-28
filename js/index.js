@@ -1,5 +1,5 @@
 const title = document.querySelector('.title')
-const text = `Special just for my boyfriend 🤍`.split('')
+const text = `Special just for my boyfriend`.split('')
 
 // Create container for better responsive layout
 title.style.display = 'flex'
